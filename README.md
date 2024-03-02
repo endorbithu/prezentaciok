@@ -1,4 +1,3 @@
-Általam készített prezentációk
 ## Coding standard javaslatok
 https://docs.google.com/presentation/d/1n2CpNmiCe45I7oN37inVziWFcikJgAY4cGUTJoecXWA/edit?usp=sharing  
 
